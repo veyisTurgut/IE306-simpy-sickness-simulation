@@ -1,0 +1,24 @@
+{
+    "Means": {
+        "long_run_probability_of_the_hospital_being_empty": 0.004483500501893029,
+        "long_run_probability_of_the_hospital_being_full": 0.0,
+        "average_number_of_occupied_beds_in_the_hospital": 5.476742923091644,
+        "average_number_of_occupied_beds_in_the_hospital_initially_empty": 5.303177631479529,
+        "average_number_of_occupied_beds_in_the_hospital_initially_full": 5.754554104124828,
+        "average_number_of_sick_people_in_the_population": 40.61034757328938,
+        "average_number_of_sick_people_in_the_population_initially_empty": 40.412410693088155,
+        "average_number_of_sick_people_in_the_population_initially_full": 40.89111852887679,
+        "average_proportion_of_sick_people_in_the_population": 0.029926564166020176,
+        "total_average_sickness_time": 9.173787176294145,
+        "total_average_sickness_time_initially_empty": 9.190218225250886,
+        "total_average_sickness_time_initially_full": 9.159544342917435
+    },
+    "Variances": {
+        "long_run_probability_of_the_hospital_being_empty": 3.457450244461442e-06,
+        "long_run_probability_of_the_hospital_being_full": 0.0,
+        "average_number_of_occupied_beds_in_the_hospital": 0.1389455345298459,
+        "average_number_of_sick_people_in_the_population": 0.29934470433514676,
+        "average_proportion_of_sick_people_in_the_population": 1.625593238450514e-07,
+        "total_average_sickness_time": 0.00597067310329373
+    }
+}

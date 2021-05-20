@@ -1,0 +1,7 @@
+{
+    "probability_of_the_hospital_being_empty": 0.0044396805080995074,
+    "probability_of_the_hospital_being_full": 2.4891697543019765e-38,
+    "average_number_of_occupied_beds_in_the_hospital": 5.406374501992035,
+    "total_average_sickness_time": 9.202288429624536,
+    "hospital_effective_arrival_rate / hospital_arrival_rate": 0.9960159362549801
+}

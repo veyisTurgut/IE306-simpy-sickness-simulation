@@ -5,9 +5,11 @@
         "time_limit": 1000,
         "seed": 123,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.008,
-            "average_number_of_occupied_beds_in_the_hospital": 5.572,
-            "average_proportion_of_sick_people_in_the_population": 40.882,
+            "long_run_probability_of_the_hospital_being_empty": 0.007007007007007007,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.5775775775775776,
+            "average_number_of_sick_people_in_the_population": 40.92292292292292,
+            "average_proportion_of_sick_people_in_the_population": 0.03015690709132124,
             "total_average_sickness_time": 9.1840627400422
         }
     },
@@ -17,9 +19,11 @@
         "time_limit": 1000,
         "seed": 456,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.006,
-            "average_number_of_occupied_beds_in_the_hospital": 5.184,
-            "average_proportion_of_sick_people_in_the_population": 40.771,
+            "long_run_probability_of_the_hospital_being_empty": 0.005005005005005005,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.1891891891891895,
+            "average_number_of_sick_people_in_the_population": 40.811811811811815,
+            "average_proportion_of_sick_people_in_the_population": 0.030075027127348428,
             "total_average_sickness_time": 9.411205381305436
         }
     },
@@ -29,9 +33,11 @@
         "time_limit": 1000,
         "seed": 789,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.003,
-            "average_number_of_occupied_beds_in_the_hospital": 5.291,
-            "average_proportion_of_sick_people_in_the_population": 40.309,
+            "long_run_probability_of_the_hospital_being_empty": 0.002002002002002002,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.296296296296297,
+            "average_number_of_sick_people_in_the_population": 40.349349349349346,
+            "average_proportion_of_sick_people_in_the_population": 0.029734229439461565,
             "total_average_sickness_time": 9.035016164646263
         }
     },
@@ -41,9 +47,11 @@
         "time_limit": 10000,
         "seed": 123,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.0054,
-            "average_number_of_occupied_beds_in_the_hospital": 5.3116,
-            "average_proportion_of_sick_people_in_the_population": 40.233,
+            "long_run_probability_of_the_hospital_being_empty": 0.0053005300530053,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.3121312131213125,
+            "average_number_of_sick_people_in_the_population": 40.23702370237024,
+            "average_proportion_of_sick_people_in_the_population": 0.029651454460110714,
             "total_average_sickness_time": 9.208389855418815
         }
     },
@@ -53,9 +61,11 @@
         "time_limit": 10000,
         "seed": 456,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.0055,
-            "average_number_of_occupied_beds_in_the_hospital": 5.2604,
-            "average_proportion_of_sick_people_in_the_population": 39.8725,
+            "long_run_probability_of_the_hospital_being_empty": 0.0054005400540054005,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.260926092609261,
+            "average_number_of_sick_people_in_the_population": 39.87648764876488,
+            "average_proportion_of_sick_people_in_the_population": 0.02938576834838974,
             "total_average_sickness_time": 9.105179507001536
         }
     },
@@ -65,9 +75,11 @@
         "time_limit": 10000,
         "seed": 789,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.0056,
-            "average_number_of_occupied_beds_in_the_hospital": 5.3038,
-            "average_proportion_of_sick_people_in_the_population": 40.5033,
+            "long_run_probability_of_the_hospital_being_empty": 0.005500550055005501,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.3043304330433045,
+            "average_number_of_sick_people_in_the_population": 40.50735073507351,
+            "average_proportion_of_sick_people_in_the_population": 0.029850663769398312,
             "total_average_sickness_time": 9.19407797138557
         }
     },
@@ -77,9 +89,11 @@
         "time_limit": 100000,
         "seed": 123,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.00505,
-            "average_number_of_occupied_beds_in_the_hospital": 5.2493,
-            "average_proportion_of_sick_people_in_the_population": 40.36254,
+            "long_run_probability_of_the_hospital_being_empty": 0.005040050400504005,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.249352493524936,
+            "average_number_of_sick_people_in_the_population": 40.362943629436295,
+            "average_proportion_of_sick_people_in_the_population": 0.02974424733193537,
             "total_average_sickness_time": 9.191811516827906
         }
     },
@@ -89,9 +103,11 @@
         "time_limit": 100000,
         "seed": 456,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.00432,
-            "average_number_of_occupied_beds_in_the_hospital": 5.27896,
-            "average_proportion_of_sick_people_in_the_population": 40.24118,
+            "long_run_probability_of_the_hospital_being_empty": 0.004310043100431004,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.279012790127902,
+            "average_number_of_sick_people_in_the_population": 40.241582415824155,
+            "average_proportion_of_sick_people_in_the_population": 0.029654813865751035,
             "total_average_sickness_time": 9.17800364076937
         }
     },
@@ -101,9 +117,11 @@
         "time_limit": 100000,
         "seed": 789,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.00496,
-            "average_number_of_occupied_beds_in_the_hospital": 5.25973,
-            "average_proportion_of_sick_people_in_the_population": 40.40182,
+            "long_run_probability_of_the_hospital_being_empty": 0.004950049500495005,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.2597825978259785,
+            "average_number_of_sick_people_in_the_population": 40.40222402224022,
+            "average_proportion_of_sick_people_in_the_population": 0.029773193826263977,
             "total_average_sickness_time": 9.204217249860877
         }
     },
@@ -113,9 +131,11 @@
         "time_limit": 1000,
         "seed": 123,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.007,
-            "average_number_of_occupied_beds_in_the_hospital": 5.625,
-            "average_proportion_of_sick_people_in_the_population": 40.528,
+            "long_run_probability_of_the_hospital_being_empty": 0.006006006006006006,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.63063063063063,
+            "average_number_of_sick_people_in_the_population": 40.568568568568566,
+            "average_proportion_of_sick_people_in_the_population": 0.029895776395407934,
             "total_average_sickness_time": 9.118498266553692
         }
     },
@@ -125,9 +145,11 @@
         "time_limit": 1000,
         "seed": 456,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.007,
-            "average_number_of_occupied_beds_in_the_hospital": 5.456,
-            "average_proportion_of_sick_people_in_the_population": 40.044,
+            "long_run_probability_of_the_hospital_being_empty": 0.006006006006006006,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.461461461461462,
+            "average_number_of_sick_people_in_the_population": 40.08408408408408,
+            "average_proportion_of_sick_people_in_the_population": 0.029538750246193134,
             "total_average_sickness_time": 9.12747799455447
         }
     },
@@ -137,9 +159,11 @@
         "time_limit": 1000,
         "seed": 789,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.007,
-            "average_number_of_occupied_beds_in_the_hospital": 5.381,
-            "average_proportion_of_sick_people_in_the_population": 42.365,
+            "long_run_probability_of_the_hospital_being_empty": 0.006006006006006006,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.386386386386387,
+            "average_number_of_sick_people_in_the_population": 42.407407407407405,
+            "average_proportion_of_sick_people_in_the_population": 0.03125085291629138,
             "total_average_sickness_time": 9.288721282336724
         }
     },
@@ -149,9 +173,11 @@
         "time_limit": 10000,
         "seed": 123,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.0054,
-            "average_number_of_occupied_beds_in_the_hospital": 5.4035,
-            "average_proportion_of_sick_people_in_the_population": 40.1924,
+            "long_run_probability_of_the_hospital_being_empty": 0.0053005300530053,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.404040404040404,
+            "average_number_of_sick_people_in_the_population": 40.1964196419642,
+            "average_proportion_of_sick_people_in_the_population": 0.029621532529081944,
             "total_average_sickness_time": 9.166582169127361
         }
     },
@@ -161,9 +187,11 @@
         "time_limit": 10000,
         "seed": 456,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.0056,
-            "average_number_of_occupied_beds_in_the_hospital": 5.356,
-            "average_proportion_of_sick_people_in_the_population": 40.3133,
+            "long_run_probability_of_the_hospital_being_empty": 0.005500550055005501,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.3565356535653565,
+            "average_number_of_sick_people_in_the_population": 40.31733173317332,
+            "average_proportion_of_sick_people_in_the_population": 0.02971063502813067,
             "total_average_sickness_time": 9.12110520716773
         }
     },
@@ -173,9 +201,11 @@
         "time_limit": 10000,
         "seed": 789,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.0054,
-            "average_number_of_occupied_beds_in_the_hospital": 5.3065,
-            "average_proportion_of_sick_people_in_the_population": 40.0883,
+            "long_run_probability_of_the_hospital_being_empty": 0.0053005300530053,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.307030703070307,
+            "average_number_of_sick_people_in_the_population": 40.09230923092309,
+            "average_proportion_of_sick_people_in_the_population": 0.029544811518734778,
             "total_average_sickness_time": 9.137920230173975
         }
     },
@@ -185,9 +215,11 @@
         "time_limit": 100000,
         "seed": 123,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.00528,
-            "average_number_of_occupied_beds_in_the_hospital": 5.27461,
-            "average_proportion_of_sick_people_in_the_population": 40.36725,
+            "long_run_probability_of_the_hospital_being_empty": 0.005270052700527005,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.274662746627467,
+            "average_number_of_sick_people_in_the_population": 40.36765367653677,
+            "average_proportion_of_sick_people_in_the_population": 0.029747718258317443,
             "total_average_sickness_time": 9.193056340188365
         }
     },
@@ -197,9 +229,11 @@
         "time_limit": 100000,
         "seed": 456,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.00525,
-            "average_number_of_occupied_beds_in_the_hospital": 5.27607,
-            "average_proportion_of_sick_people_in_the_population": 40.3871,
+            "long_run_probability_of_the_hospital_being_empty": 0.005240052400524005,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.2761227612276125,
+            "average_number_of_sick_people_in_the_population": 40.38750387503875,
+            "average_proportion_of_sick_people_in_the_population": 0.029762346260161204,
             "total_average_sickness_time": 9.196169111784007
         }
     },
@@ -209,9 +243,11 @@
         "time_limit": 100000,
         "seed": 789,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.00511,
-            "average_number_of_occupied_beds_in_the_hospital": 5.25555,
-            "average_proportion_of_sick_people_in_the_population": 40.32594,
+            "long_run_probability_of_the_hospital_being_empty": 0.005100051000510005,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.25560255602556,
+            "average_number_of_sick_people_in_the_population": 40.32634326343263,
+            "average_proportion_of_sick_people_in_the_population": 0.029717275802087422,
             "total_average_sickness_time": 9.194860044540668
         }
     },
@@ -221,9 +257,11 @@
         "time_limit": 1000,
         "seed": 123,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.005,
-            "average_number_of_occupied_beds_in_the_hospital": 5.52,
-            "average_proportion_of_sick_people_in_the_population": 40.91,
+            "long_run_probability_of_the_hospital_being_empty": 0.004004004004004004,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.525525525525525,
+            "average_number_of_sick_people_in_the_population": 40.950950950950954,
+            "average_proportion_of_sick_people_in_the_population": 0.030177561496647718,
             "total_average_sickness_time": 9.146613486677174
         }
     },
@@ -233,9 +271,11 @@
         "time_limit": 1000,
         "seed": 456,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.001,
-            "average_number_of_occupied_beds_in_the_hospital": 6.71,
-            "average_proportion_of_sick_people_in_the_population": 41.324,
+            "long_run_probability_of_the_hospital_being_empty": 0.0,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 6.716716716716717,
+            "average_number_of_sick_people_in_the_population": 41.36536536536536,
+            "average_proportion_of_sick_people_in_the_population": 0.030482951632546326,
             "total_average_sickness_time": 9.098694428703071
         }
     },
@@ -245,9 +285,11 @@
         "time_limit": 1000,
         "seed": 789,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.005,
-            "average_number_of_occupied_beds_in_the_hospital": 5.721,
-            "average_proportion_of_sick_people_in_the_population": 40.943,
+            "long_run_probability_of_the_hospital_being_empty": 0.004004004004004004,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.726726726726727,
+            "average_number_of_sick_people_in_the_population": 40.98398398398398,
+            "average_proportion_of_sick_people_in_the_population": 0.030201904188639633,
             "total_average_sickness_time": 8.984724983595685
         }
     },
@@ -257,9 +299,11 @@
         "time_limit": 10000,
         "seed": 123,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.0036,
-            "average_number_of_occupied_beds_in_the_hospital": 5.3524,
-            "average_proportion_of_sick_people_in_the_population": 40.3394,
+            "long_run_probability_of_the_hospital_being_empty": 0.0035003500350035003,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.352935293529353,
+            "average_number_of_sick_people_in_the_population": 40.343434343434346,
+            "average_proportion_of_sick_people_in_the_population": 0.029729870555220594,
             "total_average_sickness_time": 9.229209514515228
         }
     },
@@ -269,9 +313,11 @@
         "time_limit": 10000,
         "seed": 456,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.0001,
-            "average_number_of_occupied_beds_in_the_hospital": 6.2977,
-            "average_proportion_of_sick_people_in_the_population": 41.5287,
+            "long_run_probability_of_the_hospital_being_empty": 0.0,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 6.298329832983298,
+            "average_number_of_sick_people_in_the_population": 41.532853285328535,
+            "average_proportion_of_sick_people_in_the_population": 0.03060637677621852,
             "total_average_sickness_time": 9.177283741274938
         }
     },
@@ -281,9 +327,11 @@
         "time_limit": 10000,
         "seed": 789,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.005,
-            "average_number_of_occupied_beds_in_the_hospital": 5.3454,
-            "average_proportion_of_sick_people_in_the_population": 40.667,
+            "long_run_probability_of_the_hospital_being_empty": 0.0049004900490049,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.345934593459346,
+            "average_number_of_sick_people_in_the_population": 40.67106710671067,
+            "average_proportion_of_sick_people_in_the_population": 0.02997130958490101,
             "total_average_sickness_time": 9.198248151116273
         }
     },
@@ -293,9 +341,11 @@
         "time_limit": 100000,
         "seed": 123,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.00492,
-            "average_number_of_occupied_beds_in_the_hospital": 5.27976,
-            "average_proportion_of_sick_people_in_the_population": 40.42887,
+            "long_run_probability_of_the_hospital_being_empty": 0.004910049100491005,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.279812798127981,
+            "average_number_of_sick_people_in_the_population": 40.429274292742925,
+            "average_proportion_of_sick_people_in_the_population": 0.029793127702831927,
             "total_average_sickness_time": 9.20423171453729
         }
     },
@@ -305,9 +355,11 @@
         "time_limit": 100000,
         "seed": 456,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 1e-05,
-            "average_number_of_occupied_beds_in_the_hospital": 6.27826,
-            "average_proportion_of_sick_people_in_the_population": 41.37302,
+            "long_run_probability_of_the_hospital_being_empty": 0.0,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 6.278322783227832,
+            "average_number_of_sick_people_in_the_population": 41.37343373433735,
+            "average_proportion_of_sick_people_in_the_population": 0.030488897372393034,
             "total_average_sickness_time": 9.190261007771028
         }
     },
@@ -317,9 +369,11 @@
         "time_limit": 100000,
         "seed": 789,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.0055,
-            "average_number_of_occupied_beds_in_the_hospital": 5.26663,
-            "average_proportion_of_sick_people_in_the_population": 40.3693,
+            "long_run_probability_of_the_hospital_being_empty": 0.0054900549005490054,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
+            "average_number_of_occupied_beds_in_the_hospital": 5.266682666826668,
+            "average_number_of_sick_people_in_the_population": 40.36970369703697,
+            "average_proportion_of_sick_people_in_the_population": 0.02974922895875974,
             "total_average_sickness_time": 9.206632058066232
         }
     }

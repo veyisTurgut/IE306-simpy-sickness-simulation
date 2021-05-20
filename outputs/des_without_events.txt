@@ -5,9 +5,11 @@
         "time_limit": null,
         "seed": 1234,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.3,
+            "long_run_probability_of_the_hospital_being_empty": 0.2222222222222222,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
             "average_number_of_occupied_beds_in_the_hospital": 0.7777777777777778,
-            "average_proportion_of_sick_people_in_the_population": 9.88888888888889,
+            "average_number_of_sick_people_in_the_population": 9.88888888888889,
+            "average_proportion_of_sick_people_in_the_population": 0.007287316793580611,
             "total_average_sickness_time": 2.7564403440016947,
             "simulation time": 9.646562774854457
         }
@@ -18,9 +20,11 @@
         "time_limit": null,
         "seed": 1234,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.14285714285714285,
+            "long_run_probability_of_the_hospital_being_empty": 0.0,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
             "average_number_of_occupied_beds_in_the_hospital": 15.166666666666666,
-            "average_proportion_of_sick_people_in_the_population": 23.5,
+            "average_number_of_sick_people_in_the_population": 23.5,
+            "average_proportion_of_sick_people_in_the_population": 0.017317612380250553,
             "total_average_sickness_time": 2.8464888344473667,
             "simulation time": 6.375202497469046
         }
@@ -31,9 +35,11 @@
         "time_limit": null,
         "seed": 1234,
         "results": {
-            "long_run_probability_of_the_hospital_being_empty": 0.2,
+            "long_run_probability_of_the_hospital_being_empty": 0.0,
+            "long_run_probability_of_the_hospital_being_full": 0.0,
             "average_number_of_occupied_beds_in_the_hospital": 33.25,
-            "average_proportion_of_sick_people_in_the_population": 38.25,
+            "average_number_of_sick_people_in_the_population": 38.25,
+            "average_proportion_of_sick_people_in_the_population": 0.028187177597641857,
             "total_average_sickness_time": 1.6963606544701864,
             "simulation time": 4.53219381925589
         }
